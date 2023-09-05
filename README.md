@@ -1,4 +1,4 @@
-## *** NOTE: The Notebook render issue is still a problem sometimes, to view the notebooks, please paste the URL in: [click here](https://nbviewer.org/)
+## *** NOTE: The Notebook render issue is still a problem sometimes. Please paste the URL in: [click here](https://nbviewer.org/) , incase the notebooks aren't rendering in here.
 ## OpenCV-Basics
 ## OpenCV Basics with Jupyter Notebooks
 
