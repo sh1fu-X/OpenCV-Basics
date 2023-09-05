@@ -1,6 +1,6 @@
-### NOTE: The Notebook render issue is still a problem sometimes, to view the notebooks, please paste the URL in: [click here](https://nbviewer.org/)
-# OpenCV-Basics
-# OpenCV Basics with Jupyter Notebooks
+## NOTE: The Notebook render issue is still a problem sometimes, to view the notebooks, please paste the URL in: [click here](https://nbviewer.org/)
+## OpenCV-Basics
+## OpenCV Basics with Jupyter Notebooks
 
 Welcome to the OpenCV Basics repository! This collection of Jupyter notebooks serves as an educational resource to help you grasp the fundamental concepts of computer vision and image processing using OpenCV (Open Source Computer Vision Library). These notebooks are designed for beginners, providing step-by-step explanations and code examples to facilitate your learning journey.
 
