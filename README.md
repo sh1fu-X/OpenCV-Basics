@@ -1,3 +1,4 @@
+### NOTE: The Notebook render issue is still a problem sometimes, to view the notebooks, please paste the URL into [click here](https://nbviewer.org/)
 # OpenCV-Basics
 # OpenCV Basics with Jupyter Notebooks
 
